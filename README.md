@@ -2,7 +2,7 @@
 
 A simple chat application made using HTML, CSS and JS.
 
-<img src="#">
+<img src="https://github.com/designisO/Bloc-Chat-dApp/blob/main/img/FLNtTuTXIAEJlw_.jpg">
 
 ## Description
 
