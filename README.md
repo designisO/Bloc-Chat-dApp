@@ -1,7 +1,7 @@
 # BLOC CHAT dApp
 ## Decentralized Chat Application
 
-<img src="https://github.com/designisO/Web3-Gaming-dApp/blob/main/img/Screenshot%20(9).png">
+<img src="https://github.com/designisO/Bloc-Chat-dApp/blob/main/img/FLNtTuTXIAEJlw_.jpg">
 
 
 ## Description
