@@ -1,6 +1,5 @@
 # BLOC CHAT dApp
-
-A simple chat application made using HTML, CSS and JS.
+## Decentralized Chat Application
 
 <img src="https://github.com/designisO/Bloc-Chat-dApp/blob/main/img/FLNtTuTXIAEJlw_.jpg">
 <img src="https://github.com/designisO/Bloc-Chat-dApp/blob/main/img/FLNu5SfXMAA-XSb.jpg">
