@@ -8,7 +8,7 @@
 
 In this project, I wanted to create a chat application to use on web3. The goal of the project was to have the chat dApp connect to the Metamask wallet of the user. Once connected, the user can have the option to create a group room for chat or join one. When connecting the metamask wallet, I had to use the Moralis SDK to gain access to Server URL and API KEY. This was used to allow backend work to log in and out of wallets. The framework for frontend was Materialize.css. I found that Materialize.css is quite a great front end framework. Although the focus is similar to bootstrap (mobile first), I focused on desktop version for wallet connectivity concerns. 
 
-Live Page: #
+Live Page: https://designiso.github.io/Bloc-Chat-dApp/
 
 ## Getting Started
 
