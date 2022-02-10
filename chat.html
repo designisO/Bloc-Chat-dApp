@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <!-- Web 3 CDN-->
+    <script src="https://cdn.jsdelivr.net/npm/web3@latest/dist/web3.min.js"></script>
+
+    <!-- Moralis SDK CDN-->
+    <script src="https://unpkg.com/moralis/dist/moralis.js"></script>
+    
+
+    <!--Import Google Icon Font-->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <!--Import materialize.css-->
+    <link type="text/css" rel="stylesheet" href="css/materialize.min.css"  media="screen,projection"/>
+
+    <link type="text/css" rel="stylesheet" href="css/style.css"/>
+
+    <!--JavaScript at end of body for optimized loading-->
+    <script type="text/javascript" src="js/materialize.min.js"></script>
+
+
+    <!--Let browser know website is optimized for mobile-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>BLOC CHAT dApp </title>
+  </head>
+
+  <body>
+      <header>
+        <!-- Navigation -->
+        <div class="container">
+            <nav>
+                <div class="nav-wrapper grey darken-4">
+                
+                <ul class="right hide-on-med-and-down">
+                    <li><a class="waves-effect waves-light  green btn" id="btn-login">Log In<i class="material-icons left">cloud</i></a></li>
+                    <li><a class="waves-effect waves-light red btn" id="btn-logout">Log Out <i class="material-icons right">cloud</i></a></li>
+                </ul>
+                </div>
+            </nav>
+        </div>
+    </header>
+
+    <section class="container">
+      <h5 style="font-weight: bold;">CHAT</h5>
+
+      <div id="chatHistory">
+        <ul id="historyList"></ul>
+      </div>
+
+      <input type="text" id="chatInput"/>
+      <a class="waves-effect waves-light btn" value="send Message" id="sendButton">Send<i class="material-icons left">cloud</i></a>
+      
+
+    </section>
+  
+
+
+      <!-- Options Ends-->
+
+    <div class="container">
+        <footer class="page-footer grey darken-4">
+            <div class="container">
+              <div class="row">
+                <div class="col l6 s12">
+                  <h5 class="white-text">BLOC CHAT (dApp)</h5>
+                  <p class="grey-text text-lighten-4">Thank You for using the official Chat dApp of Orion. To use, please click on the log-in button to connect MetaMask wallet. Once done, choose an option to begin. </p>
+                </div>
+                <div class="col l4 offset-l2 s12">
+                  <h5 class="white-text">Social Links</h5>
+                  <ul>
+                    <li><a class="grey-text text-lighten-3" href="#!">Instagram</a></li>
+                    <li><a class="grey-text text-lighten-3" href="#!">LinkedIn</a></li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+            <div class="footer-copyright">
+              <div class="container">
+              © 2022 BlockChainO (DesignIsOrion)
+              </div>
+            </div>
+          </footer>         
+    </div>
+
+
+   
+      
+    <script src="js/wallet2.js"></script>
+
+
+    
+
+
+
+  </body>
+</html>
+      
